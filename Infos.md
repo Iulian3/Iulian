@@ -16,7 +16,7 @@ REST
 
 Java Topics:
 
-1. [Servelet / Servelet Containers](https://dzone.com/articles/what-servlet-container)
+1. [Servlet / Servlet Containers](https://dzone.com/articles/what-servlet-container)
 
 
 
