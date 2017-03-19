@@ -17,6 +17,7 @@ REST
 Java Topics:
 
 1. [Servlet / Servlet Containers](https://dzone.com/articles/what-servlet-container)
+2. http://www.wideskills.com/servlets/web-app-structure
 
 
 
